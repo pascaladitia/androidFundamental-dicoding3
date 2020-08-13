@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserAPI</string>
+    <string name="name">Nama Pengguna</string>
+    <string name="username">Username</string>
+    <string name="repository">Penyimpanan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="value">10</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="search_user">Cari Pengguna</string>
+    <string name="btn_search">Cari</string>
+    <string name="github_user">pengguna github</string>
+    <string name="title_detail">Detail Pengguna</string>
+    <string name="title_favorite">Favorite Pengguna</string>
+    <string name="add">Pengguna ditambahkan ke Favorit</string>
+    <string name="delete">Pengguna dihapus dari Favorit</string>
+    <string name="empty">Missing Data</string>
+
+    <string name="tab_text_1">Profil</string>
+    <string name="tab_text_2">Pengikut</string>
+    <string name="tab_text_3">Mengikuti</string>
+    <string name="alarm">Pengingat</string>
+
+    <string name="reminder">Ingatkan Saya</string>
+    <string name="time">pada 09.00 Siang</string>
+
+</resources>
